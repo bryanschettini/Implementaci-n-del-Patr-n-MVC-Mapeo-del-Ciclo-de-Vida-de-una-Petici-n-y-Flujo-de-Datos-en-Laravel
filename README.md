@@ -99,4 +99,4 @@ sequenceDiagram
 
 ## Autor
 
-Tu nombre — Materia / Universidad — 2026
+Bryan Schettini -  2026
